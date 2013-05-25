@@ -1,1 +1,1 @@
-this is my python script for string analysis.
+this is my first python script for string analysis. more for just a test.
